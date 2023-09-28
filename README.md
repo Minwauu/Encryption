@@ -4,7 +4,9 @@
 
 - Encryption is the process of encoding a message so that it can be read only by the sender and the intended recipient.
 - Caesar cipher - shift of spaces = key.
-- 
+- Both types of encryption require keys to be used by both parties and they still ultimately work to decrypt the messages. The differences are that in symmetric encryption, both the sender and receiver share the same private key which is used to encrypt and decrypt the data. However, a key exchange must occur which makes it very vulnerable to interception. In asymmetric encryption, 4 different keys are used. Each device has a pair of keys, a public and private key. Before the message is sent, it is encrypted by the sender using the recipient’s public key which can only be decrypted by the corresponding private key. This makes it more secure than symmetric encryption.
+![image](https://github.com/Minwauu/Encryption/assets/110039102/95c83458-fa69-4171-af7e-bfd5cd7b447e)
+
 
 
 ## Reeves questions answers
