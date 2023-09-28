@@ -16,3 +16,9 @@
 - A firewall is a method of preventing data from entering onto your computer or LAn from an external computer, you can use two network cards - one that sends and receives data from the external connection and one that sends and receives data from the LAN. Software can be used to examine the contents
 - Firewall, proxy server, physical security - e.g locked room, usernames and passwords
 - install virus protection software, regularly update virus protection software, remove your computer from external networks.
+
+## PDF page 355 answers
+
+- Symmetric encryption is not considered to be as secure as asymmetric encryption as it requires a key to be exchanged across a network which can make it vulnerable to interception. In asymmetric encryption, there are 4 different keys with a pair given to each party that can't be ecnrypted and decrypted without them. // Encryption uses a key. If both parties know the key the message can be encrypted and then decrypted. However, if someone intercepts the key then they will be able to decrypt the message. Asymmetric encryption gets round this through the use of public and private keys. Private keys remain private and do not need to be known to both parties.
+- Each device has a public and private key. The sender's message is encrypted with their public key and it can only be decrypted by the recipient's private key.
+- 
